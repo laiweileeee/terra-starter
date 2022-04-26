@@ -1,6 +1,6 @@
 # buildspace Web3 app on Terra project
 
-To learn about terra's cosmwasm contracts 
+Did this to learn terra's cosmwasm contracts 
 
 ### **Welcome 👋**
 
